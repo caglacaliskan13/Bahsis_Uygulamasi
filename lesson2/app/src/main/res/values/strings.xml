@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lesson2</string>
+    <string name="hizmet_bedeli"> Hizmet Bedeli </string>
+    <string name="mukemmel_text"> Mükemmel (%20) </string>
+    <string name="iyi_text"> İyi (%18) </string>
+    <string name="idare_eder_text"> İdare Eder (%15) </string>
+    <string name="bahsis_tutari"> Bahşiş Tutarı: %s </string>
+</resources>
